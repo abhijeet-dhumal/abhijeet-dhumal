@@ -4,12 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-dhumal-b6a4a41aa)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-dhumal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-dhumal&theme=dark&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=abhijeet-dhumal&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhijeet-dhumal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220" border="1px solid cyan" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220" border="1px solid cyan" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-dhumal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
