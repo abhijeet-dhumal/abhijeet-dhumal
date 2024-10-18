@@ -8,6 +8,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-dhumal&theme=dark&hide_border=false)<br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220" border="1px solid cyan"/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-dhumal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # 💻 Tech Stack:
