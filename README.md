@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-dhumal-b6a4a41aa)
 
 # 📊 GitHub Stats:
-[![Abhijeet's GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abhijeet-dhumal)](https://github.com/abhijeet-dhumal/github-contribution-stats/)
+![Abhijeet's GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abhijeet-dhumal)
 ![](https://github-contributor-stats.vercel.app/api?username=abhijeet-dhumal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 💻 Tech Stack:
