@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-dhumal-b6a4a41aa)
 
 # 📊 GitHub Stats:
+[![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeet-dhumal)](https://github.com/abhijeet-dhumal/github-readme-stats)
 ![](https://github-contributor-stats.vercel.app/api?username=abhijeet-dhumal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-dhumal&theme=dark&hide_border=false)<br>
 
