@@ -6,7 +6,6 @@
 # 📊 GitHub Stats:
 [![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeet-dhumal)](https://github.com/abhijeet-dhumal/github-readme-stats)
 ![](https://github-contributor-stats.vercel.app/api?username=abhijeet-dhumal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-dhumal&theme=dark&hide_border=false)<br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220" border="1px solid cyan"/>
 
