@@ -15,7 +15,7 @@
 
 <td align=center>
 
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abhijeet-dhumal)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abhijeet-dhumal&show_icons=true&theme=radical)
 
 </td>
 </tr>
@@ -23,7 +23,7 @@
 <tr>
 <td colspan="2" align=center>
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijeet-dhumal&theme=github-compact&radius=10&area=true&color=c9d1d9&title_color=c9d1d9&point=8a5cf5&line=690000&custom_title=abhijeet-dhumal's%20Contribution%20Graph&area_color=ffff00)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijeet-dhumal&theme=github-compact&radius=10&area=true&color=c9d1d9&title_color=c9d1d9&point=8a5cf5&line=690000&custom_title=abhijeet-dhumal's%20Contribution%20Graph&area_color=ffff00)]
 
 </td>
 </tr>
