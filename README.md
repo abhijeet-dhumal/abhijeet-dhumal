@@ -15,7 +15,7 @@
 
 <td align=center>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abhijeet-dhumal)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abhijeet-dhumal)
 
 </td>
 </tr>
