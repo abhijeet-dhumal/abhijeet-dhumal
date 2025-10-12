@@ -8,13 +8,22 @@
 
 <tr>
 <td width=50% align=center>
+    
 ![](https://github-readme-stats.vercel.app/api?username=abhijeet-dhumal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+    
 </td>
 
-<td align=center>
+<td width=50% align=center>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-dhumal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</td>
+</tr>
+<tr>
+<td>
+
+![](https://github-contributor-stats.vercel.app/api?username=abhijeet-dhumal&limit=5&theme=default&combine_all_yearly_contributions=true)
+    
 </td>
 </tr>
 
@@ -25,7 +34,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abhijeet-dhumal&theme=dark&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhijeet-dhumal&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhijeet-dhumal&icon=0&color=0)](https://visitcount.itsvg.in)
