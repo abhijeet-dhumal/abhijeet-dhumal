@@ -8,14 +8,12 @@
 
 <tr>
 <td width=50% align=center>
-
-![](https://raw.githubusercontent.com/abhijeet-dhumal/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
+![](https://github-readme-stats.vercel.app/api?username=abhijeet-dhumal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </td>
 
 <td align=center>
 
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abhijeet-dhumal&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-dhumal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </td>
 </tr>
@@ -24,9 +22,7 @@
 
 <!-->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhijeet-dhumal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhijeet-dhumal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-dhumal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhijeet-dhumal&limit=5&theme=default&combine_all_yearly_contributions=true)
