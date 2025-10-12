@@ -34,12 +34,6 @@
 
 </table>
 
-
-### 🔝 Top Contributed Repo
-
----
-[![](https://visitcount.itsvg.in/api?id=abhijeet-dhumal&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 
 # 💻 Tech Stack:
