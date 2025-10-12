@@ -20,7 +20,12 @@
 </td>
 </tr>
 <tr>
-<td>
+<td width=50% align=center>
+
+![](https://nirzak-streak-stats.vercel.app/?user=abhijeet-dhumal&theme=dark&hide_border=false)<br/>
+    
+</td>
+<td width=50% align=center>
 
 ![](https://github-contributor-stats.vercel.app/api?username=abhijeet-dhumal&limit=5&theme=default&combine_all_yearly_contributions=true)
     
@@ -29,9 +34,6 @@
 
 </table>
 
-<!-->
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=abhijeet-dhumal&theme=dark&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
 
