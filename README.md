@@ -4,35 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-dhumal-b6a4a41aa)
 
 # 📊 GitHub Stats:
-<table>
-
-<tr>
-<td width=50% align=center>
-    
-![](https://github-readme-stats.vercel.app/api?username=abhijeet-dhumal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-    
-</td>
-
-<td width=50% align=center>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-dhumal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</td>
-</tr>
-<tr>
-<td width=50% align=center>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=abhijeet-dhumal&theme=dark&hide_border=false)<br/>
-    
-</td>
-<td width=50% align=center>
-
-![](https://github-contributor-stats.vercel.app/api?username=abhijeet-dhumal&limit=5&theme=default&combine_all_yearly_contributions=true)
-    
-</td>
-</tr>
-
-</table>
 
 ---
 
